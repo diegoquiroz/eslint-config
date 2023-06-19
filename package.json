@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "My preferred ESLint rules",
+  "main": "index.json",
+  "repository": "https://github.com/diegoquiroz/eslint-config",
+  "author": "Diego Quiroz <diego00aq@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.40.1",
+    "@typescript-eslint/parser": "^5.40.1",
+    "eslint": "^8.26.0"
+  }
+}
